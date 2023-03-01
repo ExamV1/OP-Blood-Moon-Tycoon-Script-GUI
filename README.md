@@ -6,7 +6,7 @@ A OP GUI Script for roblox game Blood Moon Tycoon
 
 
 #base stuff
-![image](https://user-images.githubusercontent.com/87576045/221213415-4ffe26f5-8036-4432-bdb9-b38c7d6e0d91.png)
+![image](https://user-images.githubusercontent.com/87576045/222224354-e03f5d25-1f08-4916-896f-e5ce4f79fb57.png)
 
 
 #troll section
