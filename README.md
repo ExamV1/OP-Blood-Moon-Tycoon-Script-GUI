@@ -102,6 +102,9 @@ Kill player: it will kill the chosen player instantly, if they have a lot of hea
 
 Crash server: it will spawn a infinite amount of flashes all around the map that will cause all players including you to crash after a minute or so
 
+![image](https://user-images.githubusercontent.com/87576045/222224720-7f29c637-d26f-4877-b8fb-8191763a06e9.png)
+![image](https://user-images.githubusercontent.com/87576045/222224963-adc11060-8ca8-4873-abc2-b026b4643706.png)
+![image](https://user-images.githubusercontent.com/87576045/222225075-407c6bb2-3c67-4f6c-901d-d57d966c9bd5.png)
 
 
 Ear rape crash server: it will spawn a infinite amount of decoys around the map while also playing a ton of loud sounds at the same time and will cause you and all players to crash after a minute or so.
