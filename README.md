@@ -1,3 +1,6 @@
+loadstring:
+```loadstring(game:HttpGet(('https://raw.githubusercontent.com/ExamV1/OP-Blood-Moon-Tycoon-Script-GUI/main/Blood%20Moon%20Tycoon%20GUI%20Script'),true))()```
+
 # OP-Blood-Moon-Tycoon-Script-GUI
 A OP GUI Script for roblox game Blood Moon Tycoon
 
