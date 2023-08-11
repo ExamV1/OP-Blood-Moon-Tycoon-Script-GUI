@@ -4,6 +4,9 @@ loadstring:
 # OP-Blood-Moon-Tycoon-Script-GUI
 A OP GUI Script for roblox game Blood Moon Tycoon
 
+![image](https://github.com/ExamV1/OP-Blood-Moon-Tycoon-Script-GUI/assets/87576045/8647301f-2227-47b3-ae92-6f715f259666)
+
+
 #main section
 
 ![image](https://user-images.githubusercontent.com/87576045/221212693-257f33ec-8cad-4714-abc5-9769f5e90576.png)
