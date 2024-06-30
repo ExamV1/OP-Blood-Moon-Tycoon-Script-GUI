@@ -1,3 +1,5 @@
+# 30/06/2024 - Source Code Public
+
 loadstring:
 ```loadstring(game:HttpGet(('https://raw.githubusercontent.com/ExamV1/OP-Blood-Moon-Tycoon-Script-GUI/main/Blood%20Moon%20Tycoon%20GUI%20Script'),true))()```
 
